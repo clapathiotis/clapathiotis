@@ -40,7 +40,7 @@ I'm a passionate Devops Engineer based in Eindhoven, Netherlands.
 
 ## Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/christoforos-lapathiotis-451b2a179/))
+- [LinkedIn](https://www.linkedin.com/in/christoforos-lapathiotis-451b2a179/)
 
 ## GitHub Stats
 
