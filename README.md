@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I'm a passionate Devops Engineer based in Eindhoven, Netherlands.
 
-- 🔭 I’m currently working on my personal portfolio website.
+- 🔭 I’m currently working as a Devops Engineer @rabobank and on my personal portfolio website in my free time.
 - 🌱 I’m currently learning Pega / NodeJS / HTML / SCSS.
 
 ## Languages and Tools
