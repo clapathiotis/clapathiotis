@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I'm a passionate Devops Engineer based in Eindhoven, Netherlands.
 
 - 🔭 I’m currently working as a Devops Engineer @rabobank and on my personal portfolio website in my free time.
-- 🌱 I’m currently learning Pega / NodeJS / HTML / SCSS / Flutter.
+- 🌱 I’m currently learning Pega / NodeJS / React / HTML / SCSS / Flutter.
 - Maily worked with Java / Python
 
 ## Languages and Tools
@@ -34,7 +34,7 @@ I'm a passionate Devops Engineer based in Eindhoven, Netherlands.
 - **HTML5**: Proficient in creating structured and dynamic web content.
 - **SCSS**: Styling web applications with the power of Sass (SCSS).
 
-## Projects
+## Some of my Projects
 
 - 🚀 [SleepSmarter]: [IoT project targeted at elderly people to wear our custom braccelet to track their sleep performance and provide the data graphically to their personal doctors [link](https://github.com/clapathiotis/SleepSmarter)]
 - 🌟 [Road Accidents]: [Data Analytics project to visualizze road acccidents of all kinds in the UK, helping municipalities coming to conclusion. More than 100 datapoints taken into consideration [link](https://github.com/clapathiotis/jbi100_A1)]
