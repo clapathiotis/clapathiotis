@@ -22,6 +22,7 @@ I'm a passionate Devops Engineer based in Eindhoven, Netherlands.
 
 - 🔭 I’m currently working as a Devops Engineer @rabobank and on my personal portfolio website in my free time.
 - 🌱 I’m currently learning Pega / NodeJS / HTML / SCSS / Flutter.
+- Maily worked with Java / Python
 
 ## Languages and Tools
 
